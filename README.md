@@ -10,3 +10,5 @@ ASSUMPTION -- Customers know their customer id but not the unique id associated 
 - Was quite optimistic on how quickly I would be able to set-up the required enviroment to help me quickly prototype.
 - started with creating the class responsible for pulling customer information by taking advantage of the 'latest()' method offered through eloquent. Would then compare to the previous record and return the information in a human readable manner.
 - To link all the tables and get relevant information foreign keys will be used accordingly
+
+Check issues for a couple of screenshots
